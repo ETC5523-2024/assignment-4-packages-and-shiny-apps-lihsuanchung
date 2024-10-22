@@ -1,0 +1,11 @@
+#' Life Expectancy Analysis
+#'
+#' This vignette demonstrates how to use the assignment4lihsuan package
+#' to analyze global life expectancy data and interactively explore it using the Shiny app.
+
+## Running the Shiny App
+
+```{r, eval = FALSE}
+library(assignment4lihsuan)
+run_my_app()
+```

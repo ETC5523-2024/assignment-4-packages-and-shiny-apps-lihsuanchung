@@ -1,0 +1,9 @@
+Package: assignment4lihsuan
+Type: Package
+Title: R package for the ETC5523 assignment4
+Version: 0.1.0
+Author: Li-Hsuan Chung
+Maintainer: Li-Hsuan Chung <lchu0041@student.monash.edu>
+Description: This is an R package for the ETC5523 assignment.
+License: MIT
+URL: https://ETC5523-2024.github.io/assignment-4-packages-and-shiny-apps-lihsuanchung
