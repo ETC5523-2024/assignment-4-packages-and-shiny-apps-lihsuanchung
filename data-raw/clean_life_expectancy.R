@@ -9,4 +9,5 @@ life_expectancy_clean <- life_expectancy %>% filter(!is.na(Code))
 
 life_expectancy_clean  <- life_expectancy_clean %>%
   filter( Year > 1950)
+
 usethis::use_data(life_expectancy_clean, overwrite = TRUE)
