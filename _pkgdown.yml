@@ -1,4 +1,9 @@
 url: 'https://ETC5523-2024.github.io/assignment-4-packages-and-shiny-apps-lihsuanchung'
+
+
 template:
-  assets:
-    - assets/css/style.scss
+  bootstrap: 5
+
+
+assets:
+  - inst/pkgdown/assets/css/style.scss
