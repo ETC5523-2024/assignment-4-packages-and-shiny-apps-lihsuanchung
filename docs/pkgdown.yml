@@ -1,0 +1,9 @@
+pandoc: '3.2'
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  life_expectancy_analysis: life_expectancy_analysis.html
+last_built: 2024-10-23T00:53Z
+urls:
+  reference: https://ETC5523-2024.github.io/assignment-4-packages-and-shiny-apps-lihsuanchung/reference
+  article: https://ETC5523-2024.github.io/assignment-4-packages-and-shiny-apps-lihsuanchung/articles
